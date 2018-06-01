@@ -10,8 +10,8 @@ Use Zabbix Monitor vCenter
 ```
 Import the Dashboard json to Grafana(version 5.x)
 ---
-1.Change the Data Source which you Env Used
-2.Change the Variables to your Env Used
+- Change the Data Source which you Env Used  
+- Change the Variables to your Env Used  
 
 Now Show
 ---
